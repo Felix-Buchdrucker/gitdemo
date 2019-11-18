@@ -8,6 +8,7 @@ This is just random text with no sense.
 ##Status
 
 1. First Time git
+2. Changes in the HTML file
 
 ##IPSUM
 
